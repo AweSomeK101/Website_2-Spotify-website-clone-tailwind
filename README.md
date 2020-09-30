@@ -1,4 +1,4 @@
-# Spotify Website clone
+# SPOTIFY CLONE
 
 Making the [Spotify **Website**](https://www.spotify.com/in/) clone using **TailwindCSS**
 
